@@ -1,0 +1,23 @@
+1. should not activate employees if no details submitted
+2. company address not required during registration
+3. notifications being sent twice
+4. industry classification
+5. hide the profile pic box untill someone is registerded
+6. logo not uploading
+7. placeholders capitalized
+8. Adding dashes to company and picking depts from the other company
+9. on calendar show grid of years
+10. you should report to yourself
+11. search should be scoped to company
+12. Delegate task should be a button same line as continue
+13. Multiple select have a check box
+14. due date cannot be earlier than contract start date
+15. Add residency 
+16. physical address on contact no map
+17. Already graduated after qualification
+18. referees add description field
+19. list of banks
+20. profile pic should be first item
+21. have all details on the preview
+22. Add tab for the preview
+23. bug on updating task

@@ -1,0 +1,75 @@
+IP: 34.76.235.223
+
+###Build app###
+docker-compose down
+docker-compose build
+docker-compose up -d
+
+###Stop and Delete all containers##
+docker rm $(docker ps -a -q)
+
+####Running Artisan Commands###
+docker-compose exec app php artisan migrate
+
+#######SETTINGS###########
+manage_settings => admin
+
+###############
+Status mapping 
+0 => active
+1 => absent
+2 => leave
+3 => suspended
+4  => dismissed
+###############
+
+###############
+Reg status mapping
+0 => complete
+1 => Reg intiated
+2 => Reg in review
+3 => Corrections requested
+4 => Reg review complete
+##############
+
+######################
+Leave type mapping
+0 => other leave
+1 => Annual leave
+2 => Part  leave
+3 => Maternity  leave
+4 => Paternity  leave
+5 => Sick  leave
+6 => Sabbatical leave  
+7 => Vacation
+######################
+
+######################
+Leave status mapping
+0 => approved
+1 => pending
+2 => under review
+3 => declined
+######################
+
+###################
+Payroll cycle  mapping
+1 => Daily
+2 => weekly
+3 => bi-weekly
+4 => monthly
+5 => quarterly
+6 => semi-annualy
+7 => annualy
+##################
+
+############
+CompanyBenefits maping
+1=> basic salary
+2=> house allowance
+3=> traveling allowance
+4=> entertainment allowance
+5=> medical cover
+6=> nssf
+6=> insuarance
+###########

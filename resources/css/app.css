@@ -1,0 +1,283 @@
+@import "bootstrap";
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "./variables.scss";
+.bg-theme {
+    background-color: var(--theme-color);
+}
+.btn-theme{
+    background-color: var(--theme-color);
+    color: var(--white);
+}
+.btn-theme:hover{
+    background-color: var(--theme-color);
+    color: var(--white);
+    opacity: 0.8;
+}
+.text-theme {
+    color: var(--theme-color);
+}
+.min-h-screen h1 {
+    font-size: 1.6em;
+    font-weight: 700;
+}
+.min-h-screen h2 {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+.text-dark {
+    color: var(--dark) !important;
+}
+.guest-layout form .form-control, .verification-content .form-control {
+    border-color: var(--grey);
+    border-radius: 5px;
+}
+.verification-content .form-control{
+    max-width: 200px;
+}
+.home-sidebar h1 {
+    background-color: var(--theme-color);
+    color: var(--white);
+}
+
+.home-sidebar h1 a {
+    color: inherit;
+}
+
+.profile .nav-link {
+    color: var(--white);
+}
+.profile-panel {
+    position: relative;
+    height: 100%;
+}
+.profile .profile-sidebar {
+    position: absolute;
+    width: 100%;
+    padding: 15px;
+}
+.profile .social-icons span {
+    font-size: 1.1em;
+}
+.profile .tab-pane {
+    padding: 15px;
+}
+.tab-pane-content {
+    max-height: 500px;
+    overflow-y: auto;
+    /*overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+    scrollbar-width: none;*/
+}
+@media only screen and (min-width: 1200px) {
+    .tab-pane-content {
+        max-height: 700px;
+    }
+}
+.tab-pane-content::-webkit-scrollbar {
+    /*width: 0 !important;
+    background: transparent;
+    display: none;
+    height: 0;*/
+}
+.tab-pane-content h1 {
+    color: var(--theme-color);
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 1.3em;
+    border-color: var(--theme-color);
+}
+.tab-pane-content .section {
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+.tab-pane-content .section h2 {
+    font-size: 1em;
+    border-color: var(--theme-color);
+}
+.tab-pane-content .section h2 span {
+    color: var(--theme-color);
+}
+.tab-pane-content form {
+    max-width: 40rem;
+    padding: 15px 0;
+}
+ .form-control {
+    border-color: var(--grey);
+    border-radius: 5px;
+   /* height: 35px;*/
+}
+.form-select {
+    border-radius: 5px;
+}
+ input[type='text'],  input[type='date'], input[type='password'],  input[type='search'],  input[type='time'],  input[type='email'],  select, .vue-tel-input  {
+    height: 35px; 
+}
+.tab-pane-content .age-label {
+    height: 100%;
+    position: relative;
+}
+.tab-pane-content .age-label p {
+    position: absolute;
+    bottom: 10px;
+    color: var(--theme-color);
+}
+.tab-pane-content .title-border {
+    border-bottom: 1px solid var(--theme-color);
+    color: var(--theme-color);
+}
+
+ .company-reg-logo-panel{
+    width: 80%;
+    overflow: hidden;
+    margin: 15px auto;
+}
+ .company-reg-logo-panel .company-logo{
+    border:1px solid var(--theme-color);
+    width: 150px;
+    height: 150px;
+    margin: 5px auto;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+   /* padding: 10px;*/
+}
+ .company-reg-logo-panel .company-logo img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    object-position: center;
+}
+
+.tab-pane-content .preview-details{
+    box-shadow: 1px 1px 2px 1px var(--grey);
+    border: 1px solid var(--grey);
+    padding: 15px;
+    margin-bottom: 2em;
+}
+.tab-pane-content .preview-details h2{ 
+    border-bottom: 1px solid var(--theme-color);
+}
+
+.tab-pane-content .preview-details p{ 
+    border-bottom: 1px solid var(--grey);
+    max-width: 300px;
+}
+
+.color-theme {
+    color: var(--theme-color) !important;
+}
+.bg-theme-bright {
+    background-color: var(--theme-color-bright);
+}
+.verification-panel{
+    padding: 15px;
+}
+.verification-panel h2{
+    text-align: center;
+}
+
+.max-1-line {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 1; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+.max-2-lines {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+.max-3-lines {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+.max-4-lines {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+
+
+  .subscription-cards {
+    /*display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    grid-gap: 20px;*/
+  
+  
+  }
+  
+  .subscription-cards > article {
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 6px 0px rgba(187, 163, 206, 1);
+    background-color: #fff;
+    padding: 5% 0;
+    border-radius: 20px;
+    max-width: 270px;
+    cursor: pointer;
+  }
+  
+  
+  .subscription-cards .text {
+    padding: 10px 20px 20px 30px;
+    color: #808285;
+    text-align: center;
+    /*margin-bottom: 20px;  */
+  }
+
+  .subscription-cards .active {
+    border: 2px solid var(--theme-color);
+    /*margin-bottom: 20px;  */
+  }
+  .subscription-cards .active h2 {
+    color: var(--theme-color);
+    /*margin-bottom: 20px;  */
+  }
+  
+  /*.subscription-cards .btn {
+    margin-top: 20px;
+    background-color: #e0d4e9;
+      border: 0;
+      border-radius: 5px;
+      color: #000;
+      font-size: 15px;
+      padding: 5px 10px 5px 10px;
+    line-height: 5;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    
+  }
+  
+  .subscription-cards .btn:hover {
+    background: #d1d3d4;
+    transition-duration: 80ms;
+  }*/
+  
+  .subscription-cards h3{ 
+    color: var(--dark);
+    font-weight: 700;
+    font-size: 1em;
+  }
+  .subscription-cards h2{ 
+    font-size: 1.5em;
+  }
+  .subscription-cards ul{
+    color: var(--dark); 
+  }
+  .subscription-cards ul li{
+    font-style: italic;
+    font-size: 0.8em;
+  }
+  .text-bold{
+    font-weight: bold !important;
+  }

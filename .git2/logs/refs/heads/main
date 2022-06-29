@@ -1,0 +1,59 @@
+0000000000000000000000000000000000000000 469049fa13af7eec1184c130e7014c943306a63d antonymn0 <mnantony0@gmail.com> 1652686485 +0300	clone: from git@github.com:biznesskit/bamboo.git
+469049fa13af7eec1184c130e7014c943306a63d 9f8df91a44ba80a98e934722a282749d4be7458f antonymn0 <mnantony0@gmail.com> 1652775567 +0300	pull --tags origin main: Fast-forward
+9f8df91a44ba80a98e934722a282749d4be7458f 378a3d265799ffd9462d1011148007872bceba12 antonymn0 <mnantony0@gmail.com> 1652792673 +0300	commit: employee data pdf
+378a3d265799ffd9462d1011148007872bceba12 f7cc88b1b7aa10ae32ffaed1ef4cd4510a98ecae antonymn0 <mnantony0@gmail.com> 1652793649 +0300	commit: employee data pdf
+f7cc88b1b7aa10ae32ffaed1ef4cd4510a98ecae 83bf1474cfe58f3420bba7f2893d52071a45bf14 antonymn0 <mnantony0@gmail.com> 1652880918 +0300	commit: company registration process
+83bf1474cfe58f3420bba7f2893d52071a45bf14 154d0d51ef95374a8936741d9efb1f17c0a3d0c8 antonymn0 <mnantony0@gmail.com> 1652945003 +0300	pull --tags origin main: Fast-forward
+154d0d51ef95374a8936741d9efb1f17c0a3d0c8 fb21655df5b43b927b5b917d6adafbf458570a3a antonymn0 <mnantony0@gmail.com> 1653000086 +0300	commit: payroll model
+fb21655df5b43b927b5b917d6adafbf458570a3a 0c3aacf3f0ffbde1f0c34dc43bc1723f2cf19337 antonymn0 <mnantony0@gmail.com> 1653000110 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+0c3aacf3f0ffbde1f0c34dc43bc1723f2cf19337 bb84aae500985f9967de676d4b20af091980aaa3 antonymn0 <mnantony0@gmail.com> 1653056962 +0300	commit: payroll records
+bb84aae500985f9967de676d4b20af091980aaa3 14f8d2b37db044f33bdb2f33e87dd9b7a5b11935 antonymn0 <mnantony0@gmail.com> 1653213202 +0300	commit: payroll redirect error fix
+14f8d2b37db044f33bdb2f33e87dd9b7a5b11935 968f6660402c0437dd91ccd4dcf4d163852e8cbb antonymn0 <mnantony0@gmail.com> 1653215548 +0300	commit (merge): Merge branch 'main' of github.com:biznesskit/bamboo into main
+968f6660402c0437dd91ccd4dcf4d163852e8cbb 6fb518adda78718f5d01b5b8fe8eed68c41ee3b5 antonymn0 <mnantony0@gmail.com> 1653215684 +0300	commit: merge conflict
+6fb518adda78718f5d01b5b8fe8eed68c41ee3b5 83c5fde1b39dc1a9292aa45e6c0a0cbae4e90239 antonymn0 <mnantony0@gmail.com> 1653287416 +0300	commit: fix year field input bug
+83c5fde1b39dc1a9292aa45e6c0a0cbae4e90239 25c12cea85fd207decd258aacb725a2bc279bf37 antonymn0 <mnantony0@gmail.com> 1653287427 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+25c12cea85fd207decd258aacb725a2bc279bf37 480c411d09873dc762ccc8ba15da0bcfb35f1b48 antonymn0 <mnantony0@gmail.com> 1653318147 +0300	commit: people-bulk_actions and preferences
+480c411d09873dc762ccc8ba15da0bcfb35f1b48 6427948b44df479148e048a8b7048279f9f5c828 antonymn0 <mnantony0@gmail.com> 1653318837 +0300	commit (merge): Merge branches 'main' and 'main' of github.com:biznesskit/bamboo into main
+6427948b44df479148e048a8b7048279f9f5c828 1ea81bf250b3a2a79d957bf5d950c159e22a2a7a antonymn0 <mnantony0@gmail.com> 1653319028 +0300	commit: minor UI-styles tweak
+1ea81bf250b3a2a79d957bf5d950c159e22a2a7a f3cec90a7f8e23aa8384105f9229dce83972840a antonymn0 <mnantony0@gmail.com> 1653326893 +0300	commit: finish offboarding user
+f3cec90a7f8e23aa8384105f9229dce83972840a 86ab18a2c0ab09a4d2c02eb96052bb740f5b13b7 antonymn0 <mnantony0@gmail.com> 1653402840 +0300	commit: Revisions
+86ab18a2c0ab09a4d2c02eb96052bb740f5b13b7 53b1c33cb9ad5b67a50788e30bacb8c0dbf9c23e antonymn0 <mnantony0@gmail.com> 1653402847 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+53b1c33cb9ad5b67a50788e30bacb8c0dbf9c23e aa8057c68990156234da3bfa0ccdd5a59cc1db10 antonymn0 <mnantony0@gmail.com> 1653415077 +0300	commit: Access levels
+aa8057c68990156234da3bfa0ccdd5a59cc1db10 9ec3ce765c39a33a197e2ef5ed4dba9350d11b1a antonymn0 <mnantony0@gmail.com> 1653415082 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+9ec3ce765c39a33a197e2ef5ed4dba9350d11b1a 74daf091f8e368913635385fe9f38f142228bb05 antonymn0 <mnantony0@gmail.com> 1653511231 +0300	commit: leave application process
+74daf091f8e368913635385fe9f38f142228bb05 bddc92d7215a26e51cb1cf8e44f7e4218f79fd25 antonymn0 <mnantony0@gmail.com> 1653511390 +0300	commit (merge): Merge branch
+bddc92d7215a26e51cb1cf8e44f7e4218f79fd25 425fc195a24308293dc69c61995aec2d043c2e7c antonymn0 <mnantony0@gmail.com> 1653611230 +0300	commit: update leave options & test pdf generators
+425fc195a24308293dc69c61995aec2d043c2e7c 2f79914379cdc93c81cb07d8400e349f5e81b093 antonymn0 <mnantony0@gmail.com> 1653658153 +0300	commit: password reset
+2f79914379cdc93c81cb07d8400e349f5e81b093 5d6c3625abb2fefcd277ea5030b6cff32f9af73f antonymn0 <mnantony0@gmail.com> 1653896200 +0300	commit: added mpesa subscription payment
+5d6c3625abb2fefcd277ea5030b6cff32f9af73f f449ef9721d3136a5367d36fa116474c90e50a73 antonymn0 <mnantony0@gmail.com> 1653896225 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+f449ef9721d3136a5367d36fa116474c90e50a73 4f53674746097c5a470383d0677e67f92edcefc5 antonymn0 <mnantony0@gmail.com> 1653903074 +0300	commit: auto detect payment && send payement sms
+4f53674746097c5a470383d0677e67f92edcefc5 2c23d2ffd6280f166a68d33335c95edefb6ca89a antonymn0 <mnantony0@gmail.com> 1653934485 +0300	commit: updated verify email popup msg
+2c23d2ffd6280f166a68d33335c95edefb6ca89a 318c21f2796e27f464ad7460286824579e493806 antonymn0 <mnantony0@gmail.com> 1653934565 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+318c21f2796e27f464ad7460286824579e493806 1865de2e37c12962da9cda076ff00fa30ea7fc09 antonymn0 <mnantony0@gmail.com> 1653987484 +0300	commit: prod
+1865de2e37c12962da9cda076ff00fa30ea7fc09 8e475b7b58d460c2df28271c5a0335b2394b6127 antonymn0 <mnantony0@gmail.com> 1653987860 +0300	commit (merge): Merge branch 'main' of github.com:biznesskit/bamboo into main
+8e475b7b58d460c2df28271c5a0335b2394b6127 2c0c2cd2bb56eae6580c9a41cf06b9ca8256b731 antonymn0 <mnantony0@gmail.com> 1654020325 +0300	commit: roles & permissions + Notifications
+2c0c2cd2bb56eae6580c9a41cf06b9ca8256b731 1133bc6dd8042d3798c02beb3c6b75820c059a15 antonymn0 <mnantony0@gmail.com> 1654020595 +0300	commit (merge): Merge branch 'main' of github.com:biznesskit/bamboo into main
+1133bc6dd8042d3798c02beb3c6b75820c059a15 867fb8dad9f8deb71ffb95062644e1708030f7fb antonymn0 <mnantony0@gmail.com> 1654024751 +0300	commit: set leave options
+867fb8dad9f8deb71ffb95062644e1708030f7fb 7df0cb56a85dd7039106dd3ccb2019f28e10ba81 antonymn0 <mnantony0@gmail.com> 1654071901 +0300	commit: Payroll cycles
+7df0cb56a85dd7039106dd3ccb2019f28e10ba81 06ac5e89bcb232e151258f84fc0501b48275b2fb antonymn0 <mnantony0@gmail.com> 1654072186 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+06ac5e89bcb232e151258f84fc0501b48275b2fb ee8f7ffa70c6584c07b7cdcbf8f70316ff2172ce antonymn0 <mnantony0@gmail.com> 1654073339 +0300	commit: minor tweak
+ee8f7ffa70c6584c07b7cdcbf8f70316ff2172ce 154538629ef2b2eb80da96b63574f6f2fba3fb8e antonymn0 <mnantony0@gmail.com> 1654073388 +0300	commit (merge): resolve merge conflict
+154538629ef2b2eb80da96b63574f6f2fba3fb8e 8bdbeac4c72623bd076f215baddea4c2e88cf37a antonymn0 <mnantony0@gmail.com> 1654103961 +0300	pull --tags origin main: Fast-forward
+8bdbeac4c72623bd076f215baddea4c2e88cf37a f23fa1ae99ea564265fcfdcd981bc18392f3cee0 antonymn0 <mnantony0@gmail.com> 1654111915 +0300	commit: update mpesa payments
+f23fa1ae99ea564265fcfdcd981bc18392f3cee0 692cb95967fa10322b9f723e780ed032f58e752e antonymn0 <mnantony0@gmail.com> 1654115097 +0300	commit: update assign user permissions serach box
+692cb95967fa10322b9f723e780ed032f58e752e bd01d01d15fc1b0da28dfa35afe09ab4d9153ae7 antonymn0 <mnantony0@gmail.com> 1654115426 +0300	commit: update assign user permissions seach box height
+bd01d01d15fc1b0da28dfa35afe09ab4d9153ae7 c79044e307e01ac754eaac7adedd43c778b83ffd antonymn0 <mnantony0@gmail.com> 1654117292 +0300	commit: account status
+c79044e307e01ac754eaac7adedd43c778b83ffd 104afaa19fdaeadc40cc627d98b68f3c6ae9b16c antonymn0 <mnantony0@gmail.com> 1654159358 +0300	commit: loans
+104afaa19fdaeadc40cc627d98b68f3c6ae9b16c 4a55723622d88d6d624f484b33cf3bd6485b3d31 antonymn0 <mnantony0@gmail.com> 1654159430 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+4a55723622d88d6d624f484b33cf3bd6485b3d31 2ec71c2dcf609e9795c9ef5dc80ec1e27dba032f antonymn0 <mnantony0@gmail.com> 1654162079 +0300	commit: loans update
+2ec71c2dcf609e9795c9ef5dc80ec1e27dba032f 208842ae9b69dd5f2a3411df7de2f1b6528f2a41 antonymn0 <mnantony0@gmail.com> 1654174527 +0300	commit: employee assets
+208842ae9b69dd5f2a3411df7de2f1b6528f2a41 b3cbffaf24726a1241ad0155e7d2a1a886e26063 antonymn0 <mnantony0@gmail.com> 1654174557 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+b3cbffaf24726a1241ad0155e7d2a1a886e26063 6eda4f11103a316c3c78d72adb59856d9fcb3db7 antonymn0 <mnantony0@gmail.com> 1654175415 +0300	commit: minor UI tweaks
+6eda4f11103a316c3c78d72adb59856d9fcb3db7 b61084593b57077190f759a4f10f26ec3c9f297d antonymn0 <mnantony0@gmail.com> 1654207365 +0300	commit: company benefits
+b61084593b57077190f759a4f10f26ec3c9f297d 981609bca68038dd2d539a32d58099076ca9f6d7 antonymn0 <mnantony0@gmail.com> 1654207393 +0300	pull --tags origin main: Merge made by the 'recursive' strategy.
+981609bca68038dd2d539a32d58099076ca9f6d7 9644623b9b4e0b87bf0fe9e2e3462a96e2f0ed58 antonymn0 <mnantony0@gmail.com> 1656409246 +0300	commit: payslip restructure
+9644623b9b4e0b87bf0fe9e2e3462a96e2f0ed58 e32d6da02abfa5c23214fd25d06f475cb1f69ffc antonymn0 <mnantony0@gmail.com> 1656409325 +0300	commit (merge): Merge branch 'main' of github.com:biznesskit/bamboo into main
+e32d6da02abfa5c23214fd25d06f475cb1f69ffc 870d75316c79b61ca2799d47b4ac18986a3cdeab antonymn0 <mnantony0@gmail.com> 1656485038 +0300	commit: Procfile for Heroku
+870d75316c79b61ca2799d47b4ac18986a3cdeab 2c4745f88df1c7176b70a32f845f92283bfb032f antonymn0 <mnantony0@gmail.com> 1656486815 +0300	commit: Procfile for Heroku
+2c4745f88df1c7176b70a32f845f92283bfb032f 900445e54589ce51c9b7b2ce309c315cf3c61b01 antonymn0 <mnantony0@gmail.com> 1656487403 +0300	commit: npm fix
+900445e54589ce51c9b7b2ce309c315cf3c61b01 376be58d2b878d2de15798fd48699217d168cfa1 antonymn0 <mnantony0@gmail.com> 1656488880 +0300	commit: npm fix
